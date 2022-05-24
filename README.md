@@ -1,3 +1,9 @@
+# Webinar Youtube
+Intro a typescript en 20 min
+
+## Curso completo
+[AQUÍ](https://www.youtube.com/watch?v=qS5R6Mjq36U)
+
 # Storage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.

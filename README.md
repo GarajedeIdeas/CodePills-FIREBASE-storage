@@ -1,5 +1,5 @@
 # Webinar Youtube
-Intro a typescript en 20 min
+Sube y descarga archivos con Firebase Storage en Angular
 
 ## Curso completo
 [AQUÍ](https://www.youtube.com/watch?v=qS5R6Mjq36U)
